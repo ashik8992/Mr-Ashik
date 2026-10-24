@@ -1,0 +1,6 @@
+{
+  "name": "Safe Web & App",
+  "description": "Next-generation Parental Control platform featuring Parent Admin Dashboard, Child Android Companion, Offline History, Live Screen Sharing, and safety controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
